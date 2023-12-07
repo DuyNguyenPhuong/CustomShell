@@ -1,0 +1,26 @@
+total 306
+-rw-rw-r-- 1 nguyend2 nguyend2  1812 Nov  8 21:25 argc.c
+-rwxrwxr-x 1 nguyend2 nguyend2     0 Nov  8 21:01 ctarget
+-rw-rw-r-- 1 nguyend2 nguyend2   145 Oct 30 21:15 ctarget.phase1
+-rwxrwxr-x 1 nguyend2 nguyend2 23720 Nov  8 20:38 example
+-rwxrwxr-x 1 nguyend2 nguyend2 27192 Nov  8 21:09 example2
+-rw-rw-r-- 1 nguyend2 nguyend2  3810 Nov  8 20:57 example2.c
+-rw-rw-r-- 1 nguyend2 nguyend2  4485 Nov  8 20:29 example.c
+-rw-rw-r-- 1 nguyend2 nguyend2  1249 Nov  8 21:39 execute.c
+-rwxrwxr-x 1 nguyend2 nguyend2 29760 Oct 30 14:11 hex2raw
+-rw-r--r-- 1 nguyend2 nguyend2    26 Nov 14 21:54 input.txt
+-rw-r--r-- 1 nguyend2 nguyend2     0 Nov 14 22:06 listing.txt
+-rw-rw-r-- 1 nguyend2 nguyend2    35 Nov 14 21:20 myfile.txt
+-rw-r--r-- 1 nguyend2 nguyend2     3 Nov 14 19:34 output2.txt
+-rw-r--r-- 1 nguyend2 nguyend2   348 Nov 13 20:18 output3.txt
+-rw-r--r-- 1 nguyend2 nguyend2     9 Nov 14 22:04 output4.txt
+-rw-r--r-- 1 nguyend2 nguyend2    24 Nov 14 21:55 output.txt
+-rw-r--r-- 1 nguyend2 nguyend2     1 Nov 14 19:38 out.txt
+-rw-rw-r-- 1 nguyend2 nguyend2  1601 Nov 14 09:23 pipe.c
+-rwxrwxr-x 1 nguyend2 nguyend2 44192 Nov 14 22:06 shell208
+-rw-rw-r-- 1 nguyend2 nguyend2 13905 Nov 14 22:04 shell208.c
+-rw-r--r-- 1 nguyend2 nguyend2     0 Nov  8 22:08 st
+-rwxrwxr-x 1 nguyend2 nguyend2 19696 Nov  9 18:07 stdout_test
+-rw-rw-r-- 1 nguyend2 nguyend2   122 Nov  9 13:58 stdout_test.c
+drwxrwxr-x 2 nguyend2 nguyend2     5 Nov 14 22:05 subdir
+-rwxrwxr-x 1 nguyend2 nguyend2 19696 Nov 13 20:07 test

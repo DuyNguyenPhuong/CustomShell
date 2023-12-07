@@ -1,0 +1,10 @@
+shell208 Do you need help:
+Type the commands and hit enter.
+Here are some commands commands:
+help	Show this help message
+exit	Exit the shell
+ls	List directory contents
+pwd	Print the working directory
+echo	Display a line of text
+ls -l	List directory contents in long format
+Any command followed by > and a filename redirects the output to the file.
