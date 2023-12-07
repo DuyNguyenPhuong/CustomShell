@@ -1,12 +1,12 @@
 # Welcome to My Custom Shell
 
-This code is written in C and it is able to do anything the original shell did but you can custom it.
+This is my final project for the term. This code is written in C and it can do anything the original shell did but you can custom it.
 
-What I do is I created another process using fork() and in the child process I will excecute any input from the user.
+What I do is I create another process using fork() and in the child process I will execute any input from the user.
 
-By doing this, I can custom some command in which the original shell can't do.
+By doing this, I can customize some commands the original shell can't do.
 
-For example, I custome the help, and Ctrl+C command.
+For example, I custome the help and Ctrl+C command.
 
 # Usage
 
